@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3Plateformer.Plugins", "TP3Plateformer.Plugins.csproj", "{F17802F2-0367-A2C3-481B-3C1E8800E422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3Plateformer", "TP3Plateformer.csproj", "{7705852B-74B8-03BE-F6FF-17AA76030CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17802F2-0367-A2C3-481B-3C1E8800E422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17802F2-0367-A2C3-481B-3C1E8800E422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17802F2-0367-A2C3-481B-3C1E8800E422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17802F2-0367-A2C3-481B-3C1E8800E422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7705852B-74B8-03BE-F6FF-17AA76030CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7705852B-74B8-03BE-F6FF-17AA76030CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7705852B-74B8-03BE-F6FF-17AA76030CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7705852B-74B8-03BE-F6FF-17AA76030CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

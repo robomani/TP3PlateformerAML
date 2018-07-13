@@ -1,0 +1,2107 @@
+fileFormatVersion: 2
+guid: 3941a2866df9dbb4cb754d5ca42e56ac
+timeCreated: 1531155352
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SalorNeptune_0
+    21300002: SalorNeptune_1
+    21300004: SalorNeptune_2
+    21300006: SalorNeptune_3
+    21300008: SalorNeptune_4
+    21300010: SalorNeptune_5
+    21300012: SalorNeptune_6
+    21300014: SalorNeptune_7
+    21300016: SalorNeptune_8
+    21300018: SalorNeptune_9
+    21300020: SalorNeptune_10
+    21300022: SalorNeptune_11
+    21300024: SalorNeptune_12
+    21300026: SalorNeptune_13
+    21300028: SalorNeptune_14
+    21300030: SalorNeptune_15
+    21300032: SalorNeptune_16
+    21300034: SalorNeptune_17
+    21300036: SalorNeptune_18
+    21300038: SalorNeptune_19
+    21300040: SalorNeptune_20
+    21300042: SalorNeptune_21
+    21300044: SalorNeptune_22
+    21300046: SalorNeptune_23
+    21300048: SalorNeptune_24
+    21300050: SalorNeptune_25
+    21300052: SalorNeptune_26
+    21300054: SalorNeptune_27
+    21300056: SalorNeptune_28
+    21300058: SalorNeptune_29
+    21300060: SalorNeptune_30
+    21300062: SalorNeptune_31
+    21300064: SalorNeptune_32
+    21300066: SalorNeptune_33
+    21300068: SalorNeptune_34
+    21300070: SalorNeptune_35
+    21300072: SalorNeptune_36
+    21300074: SalorNeptune_37
+    21300076: SalorNeptune_38
+    21300078: SalorNeptune_39
+    21300080: SalorNeptune_40
+    21300082: SalorNeptune_41
+    21300084: SalorNeptune_42
+    21300086: SalorNeptune_43
+    21300088: SalorNeptune_44
+    21300090: SalorNeptune_45
+    21300092: SalorNeptune_46
+    21300094: SalorNeptune_47
+    21300096: SalorNeptune_48
+    21300098: SalorNeptune_49
+    21300100: SalorNeptune_50
+    21300102: SalorNeptune_51
+    21300104: SalorNeptune_52
+    21300106: SalorNeptune_53
+    21300108: SalorNeptune_54
+    21300110: SalorNeptune_55
+    21300112: SalorNeptune_56
+    21300114: SalorNeptune_57
+    21300116: SalorNeptune_58
+    21300118: SalorNeptune_59
+    21300120: SalorNeptune_60
+    21300122: SalorNeptune_61
+    21300124: SalorNeptune_62
+    21300126: SalorNeptune_63
+    21300128: SalorNeptune_64
+    21300130: SalorNeptune_65
+    21300132: SalorNeptune_66
+    21300134: SalorNeptune_67
+    21300136: SalorNeptune_68
+    21300138: SalorNeptune_69
+    21300140: SalorNeptune_70
+    21300142: SalorNeptune_71
+    21300144: SalorNeptune_72
+    21300146: SalorNeptune_73
+    21300148: SalorNeptune_74
+    21300150: SalorNeptune_75
+    21300152: SalorNeptune_76
+    21300154: SalorNeptune_77
+    21300156: SalorNeptune_78
+    21300158: SalorNeptune_79
+    21300160: SalorNeptune_80
+    21300162: SalorNeptune_81
+    21300164: SalorNeptune_82
+    21300166: SalorNeptune_83
+    21300168: SalorNeptune_84
+    21300170: SalorNeptune_85
+    21300172: SalorNeptune_86
+    21300174: SalorNeptune_87
+    21300176: SalorNeptune_88
+    21300178: SalorNeptune_89
+    21300180: SalorNeptune_90
+    21300182: SalorNeptune_91
+    21300184: SalorNeptune_92
+    21300186: SalorNeptune_93
+    21300188: SalorNeptune_94
+    21300190: SalorNeptune_95
+    21300192: SalorNeptune_96
+    21300194: SalorNeptune_97
+    21300196: SalorNeptune_98
+    21300198: SalorNeptune_99
+    21300200: SalorNeptune_100
+    21300202: SalorNeptune_101
+    21300204: SalorNeptune_102
+    21300206: SalorNeptune_103
+    21300208: SalorNeptune_104
+    21300210: SalorNeptune_105
+    21300212: SalorNeptune_106
+    21300214: SalorNeptune_107
+    21300216: SalorNeptune_108
+    21300218: SalorNeptune_109
+    21300220: SalorNeptune_110
+    21300222: SalorNeptune_111
+    21300224: SalorNeptune_112
+    21300226: SalorNeptune_113
+    21300228: SalorNeptune_114
+    21300230: SalorNeptune_115
+    21300232: SalorNeptune_116
+    21300234: SalorNeptune_117
+    21300236: SalorNeptune_118
+    21300238: SalorNeptune_119
+    21300240: SalorNeptune_120
+    21300242: SalorNeptune_121
+    21300244: SalorNeptune_122
+    21300246: SalorNeptune_123
+    21300248: SalorNeptune_124
+    21300250: SalorNeptune_125
+    21300252: SalorNeptune_126
+    21300254: SalorNeptune_127
+    21300256: SalorNeptune_128
+    21300258: SalorNeptune_129
+    21300260: SalorNeptune_130
+    21300262: SalorNeptune_131
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SalorNeptune_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2651
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2649
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2651
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2651
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2651
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2653
+        width: 29
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2653
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2653
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2653
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2661
+        width: 29
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2661
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2491
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2526
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2495
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2495
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2495
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2495
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2491
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_18
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2491
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2514
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2512
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2517
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_22
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2508
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_23
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2504
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2325
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2325
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2325
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2321
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2320
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2319
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2316
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_31
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2315
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2167
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2167
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2167
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2167
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2177
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_37
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2177
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2176
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1993
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1992
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1995
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1996
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1992
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_44
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1988
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_45
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1989
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_46
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1985
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1848
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1848
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1848
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1705
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1715
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1717
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1715
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_54
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1722
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_55
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1737
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1563
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1579
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1572
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1559
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_60
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1578
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_61
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1570
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1377
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1377
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1377
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1377
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1382
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_67
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1382
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1192
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1212
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1212
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1212
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_72
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1212
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_73
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1212
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_74
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1037
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1076
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_76
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1037
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1043
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_78
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1041
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_79
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1041
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 889
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 889
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_82
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 889
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_83
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 900
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_84
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 927
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_85
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 920
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 916
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_87
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 920
+        width: 97
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_88
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 914
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_89
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 727
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 725
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 723
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 723
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_93
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 723
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_94
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 723
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_95
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 726
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_96
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 590
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 575
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 578
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_100
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 399
+        width: 30
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 399
+        width: 29
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 399
+        width: 31
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 399
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_104
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 447
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_105
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 445
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_106
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 441
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_107
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 435
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_108
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 416
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 401
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 206
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 198
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_112
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 196
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_113
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 197
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_114
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 198
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_115
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 289
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_116
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 194
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 206
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_118
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 281
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_119
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 198
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_121
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 270
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 206
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_123
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 256
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_124
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 236
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_125
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_126
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 225
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_127
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_128
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 209
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_129
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 196
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 43
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SalorNeptune_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 42
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
