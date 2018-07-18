@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Fire
+  - Ground
+  - ColdWater
+  - HotWater
+  - Death
   layers:
   - Default
   - TransparentFX
@@ -39,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Back
+    uniqueID: 183456577
+    locked: 0
   - name: FX
     uniqueID: 265417997
     locked: 0

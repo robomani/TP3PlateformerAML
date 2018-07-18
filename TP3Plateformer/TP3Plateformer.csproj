@@ -313,9 +313,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Barrel.cs" />
-    <Compile Include="Assets\Scripts\Death.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\CharacterSelectScript.cs" />
+    <Compile Include="Assets\Scripts\CheckPoint.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\EPoolType.cs" />
+    <Compile Include="Assets\Scripts\GameUI.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\LoseScreenScript.cs" />
+    <Compile Include="Assets\Scripts\Parallax.cs" />
+    <Compile Include="Assets\Scripts\ParallaxInfini.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\Respawn.cs" />
+    <Compile Include="Assets\Scripts\PoolableItem.cs" />
+    <Compile Include="Assets\Scripts\PoolManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
