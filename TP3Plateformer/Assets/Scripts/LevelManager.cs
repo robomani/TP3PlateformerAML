@@ -19,6 +19,7 @@ public class LevelManager : MonoBehaviour
     public EPoolType m_Char;
     public Vector3 m_SpawnPos;
     public int m_Lives = 3;
+    public bool m_Win;
 
     private bool m_WaitTimeReady;
     private bool m_LoadingReady;

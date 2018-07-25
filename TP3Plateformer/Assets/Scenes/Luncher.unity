@@ -193,7 +193,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4219166113735084, guid: 13e8ba376e36b4943ad01e12e62ba946, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -22.422504
+      value: -22.44
       objectReference: {fileID: 0}
     - target: {fileID: 4219166113735084, guid: 13e8ba376e36b4943ad01e12e62ba946, type: 2}
       propertyPath: m_LocalPosition.z
@@ -624,6 +624,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_LoadingScreen: {fileID: 1181395359}
+  m_Char: 0
+  m_SpawnPos: {x: 0, y: 0, z: 0}
+  m_Lives: 3
+  m_Win: 0
 --- !u!4 &1639873636
 Transform:
   m_ObjectHideFlags: 0

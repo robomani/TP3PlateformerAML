@@ -23,6 +23,8 @@ public class PlayerController : MonoBehaviour
     private Animator m_Animator;
     private SpriteRenderer m_Renderer;
 
+    private float m_Invincibility = 0f;
+
     private void Awake()
     {
         m_RB = GetComponent<Rigidbody2D>();
@@ -61,7 +63,7 @@ public class PlayerController : MonoBehaviour
             m_RB.AddForce(transform.up * m_JumpForce);
             m_CanJump = false;
         }
-
+        m_Invincibility -= Time.deltaTime;
     }
 
     private void FixedUpdate()
@@ -82,9 +84,30 @@ public class PlayerController : MonoBehaviour
         
     }
 
+    private void OnCollisionEnter(Collision i_Collision)
+    {
+        if (m_Invincibility <= 0 && (i_Collision.gameObject.tag == "Enemy" || i_Collision.gameObject.tag == "Boss"))
+        {
+            if (m_Big)
+            {
+                Debug.Log("Small");
+                m_Big = false;
+                transform.localScale = new Vector3(1f, 1f, 1f);
+                m_JumpForce *= 2f;
+                m_Invincibility = 5f;
+            }
+            else
+            {
+                m_OnLifeLost();
+                Die();
+            }
+        }
+         
+    }
+
     private void OnTriggerEnter2D(Collider2D i_Collision)
     {
-        if (i_Collision.gameObject.tag == "Fire" || i_Collision.gameObject.tag == "Enemy")
+        if (m_Invincibility <= 0 && i_Collision.gameObject.tag == "Fire")
         {
             Debug.Log("Damage");
             if (m_Big)
@@ -93,6 +116,7 @@ public class PlayerController : MonoBehaviour
                 m_Big = false;
                 transform.localScale = new Vector3(1f, 1f, 1f);
                 m_JumpForce *= 2f;
+                m_Invincibility = 5f;
             }
             else
             {
@@ -126,7 +150,7 @@ public class PlayerController : MonoBehaviour
     {
         if (m_IsRanma)
         {
-            m_FemaleRanma = false;
+            //m_FemaleRanma = false;
         }
         m_Big = true;
         transform.localScale = new Vector3(2f, 2f, 2f);

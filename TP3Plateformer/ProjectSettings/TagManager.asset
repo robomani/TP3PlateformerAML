@@ -9,6 +9,8 @@ TagManager:
   - ColdWater
   - HotWater
   - Death
+  - Enemy
+  - Boss
   layers:
   - Default
   - TransparentFX

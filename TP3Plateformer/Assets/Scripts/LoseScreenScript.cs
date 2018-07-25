@@ -8,7 +8,12 @@ public class LoseScreenScript : MonoBehaviour
     public Text m_Text;
     private void Start()
     {
-        if (LevelManager.Instance && LevelManager.Instance.m_Lives > 0)
+        if (LevelManager.Instance && LevelManager.Instance.m_Win)
+        {
+            m_Text.text = "You Win!";
+            LevelManager.Instance.m_Win = false;
+        }
+        else if (LevelManager.Instance && LevelManager.Instance.m_Lives > 0)
         {
             m_Text.text = "You lose a life! You have " + LevelManager.Instance.m_Lives.ToString() + " Lives left.";
         }
